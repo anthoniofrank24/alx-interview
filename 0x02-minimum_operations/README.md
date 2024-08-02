@@ -1,0 +1,1 @@
+In this directory is a mock interview question where I'm teseted on some concepts in python like Dynamic Programming, Prime Factorization, Code Optimization, Greedy Algorithms and Basic Python Programming

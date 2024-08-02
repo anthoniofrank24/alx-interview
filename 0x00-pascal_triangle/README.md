@@ -1,0 +1,1 @@
+Here, I create a function that returns a list of integeres represnting the paschal's triange;

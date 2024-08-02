@@ -1,0 +1,1 @@
+The lockbox task tests knowledge on depth-first search and breath-first search algorithm, sets, stack and list and how to make out a solution from these knowledge
